@@ -1,0 +1,30 @@
+{
+  "name": "moptimizer",
+  "version": "0.0.3",
+  "description": "A Image optmizer that shouldn't exist",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flpms/moptimizer"
+  },
+  "keywords": [
+    "node",
+    "image",
+    "optimizer"
+  ],
+  "author": "Filipe M. Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flpms/moptimizer/issues"
+  },
+  "homepage": "https://github.com/flpms/moptimizer",
+  "devDependencies": {
+    "chai": "^3.3.0"
+  }
+}
