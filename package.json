@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/flpms/moptimizer",
   "devDependencies": {
-    "chai": "^3.3.0"
+    "chai": "^3.3.0",
+    "glob": "^4.0.5",
+    "walk-sync": "^0.1.3"
   }
 }
